@@ -1,8 +1,6 @@
 TxemaOS
 ==========
 
-[![Join the chat at https://gitter.im/AdrianArroyoCalle/next-divel](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AdrianArroyoCalle/next-divel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 TxemaOS Experimental OS
 
 TxemaOS is an OS written from scratch under the GNU GPL v2.

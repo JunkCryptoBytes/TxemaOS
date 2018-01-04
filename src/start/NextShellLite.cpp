@@ -16,7 +16,7 @@ char DIVISION_EXCEPTION[]={0x66,0xb8,0x00,0x00,
 void NextShell::Lite::Commands::Version()
 {
 	ND::Screen::SetColor(ND_SIDE_FOREGROUND,ND_COLOR_GREEN);
-	ND::Screen::PutString("\nNextDivel 0.1.0 - NextShellLite 0.1.0\n");
+	ND::Screen::PutString("\nTxemaOS 0.1.0 - NextShellLite 0.1.0\n");
 }
 void NextShell::Lite::Commands::ForceException()
 {

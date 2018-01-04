@@ -22,7 +22,7 @@
 /* Headers for description tables */
 //#include "NextKernel_GDT.h"
 /* Headers for all system functions */
-//#include "NextDivel.h"
+//#include "TxemaOS.h"
 /* Headers for MultiBoot */
 //#include <ND_Multiboot.hpp>
 /* Headers for NextFS */
@@ -39,7 +39,7 @@ int NextKernel_Main(/*struct multiboot *mboot_ptr*/)
 	ND::Screen::Clear(ND_COLOR_WHITE);
 	ND::Screen::SetColor(ND_SIDE_BACKGROUND,ND_COLOR_WHITE);
 	ND::Screen::SetColor(ND_SIDE_FOREGROUND,ND_COLOR_GREEN);
-	ND::Screen::PutString("NextDivel\n");
+	ND::Screen::PutString("TxemaOS\n");
 	ND::Screen::SetColor(ND_SIDE_FOREGROUND,ND_COLOR_BLACK);
 	ND::Screen::PutString("Licensed under GNU GPL v2\n");
 	ND::GDT::Install();

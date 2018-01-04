@@ -13,9 +13,9 @@
 #define NEXT_DIVEL_CODENAME "Aurora"
 
 /**
-* @brief The name of the NextDivel distro
+* @brief The name of the TxemaOS distro
 */
-#define NEXT_DIVEL_DISTRO "NextDivel"
+#define NEXT_DIVEL_DISTRO "TxemaOS"
 
 /**
 * @brief The year of the OS
@@ -28,13 +28,13 @@
 #define NEXT_DIVEL_VENDOR "Adrián Arroyo Calle"
 
 /**
-* @brief The releases of NextDivel
+* @brief The releases of TxemaOS
 */
 #define NEXT_DIVEL_VERSION_MAJOR 0
 #define NEXT_DIVEL_VERSION_MINOR 3
 #define NEXT_DIVEL_VERSION_PATCH 0
 /**
-* @brief The current arch of NextDivel
+* @brief The current arch of TxemaOS
 */
 #define NEXT_DIVEL_ARCH "x86"
 /**

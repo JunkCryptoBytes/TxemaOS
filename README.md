@@ -11,8 +11,8 @@ Build instructions
 Run the following commands
 
 ```sh
-git clone http://github.com/AdrianArroyoCalle/next-divel
-cd next-divel
+git clone http://github.com/JunkCryptoBytes/TxemaOS
+cd TxemaOS
 mkdir build
 cd build
 cmake ..

@@ -11,7 +11,7 @@ Build instructions
 Run the following commands
 
 ```sh
-git clone http://github.com/JunkCryptoBytes/TxemaOS
+git clone http://github.com/VitharMe/TxemaOS
 cd TxemaOS
 mkdir build
 cd build
